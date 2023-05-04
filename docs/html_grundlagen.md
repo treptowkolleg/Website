@@ -82,7 +82,7 @@ die alle nach dem gleichen Prinzip aufgebaut sind:
 <meta name="Name des Meta-Attributs" content="Attributwert des Meta-Attributs" />
 ````
 
-ie du siehst, hat das ``<meta>``-Tag normalerweise zwei Attribute, nämlich:
+Wie du siehst, hat das ``<meta>``-Tag normalerweise zwei Attribute, nämlich:
 
 1. ``name``, gibt an, wie das aktuelle Meta-Attribut benannt sein soll
 2. ``content``, gibt an, welchen Inhalt/Wert das aktuelle Meta-Attribut haben soll
