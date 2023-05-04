@@ -90,7 +90,7 @@ Wie du siehst, hat das ``<meta>``-Tag normalerweise zwei Attribute, nämlich:
 ### Beispiel
 
 ````html
-<meta name="title" content="Titel der Website" />
+<meta name="author" content="Autor der Website" />
 <meta name="description" content="Inhaltsbeschreibung der Website" />
 ````
 
